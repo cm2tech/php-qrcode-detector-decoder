@@ -1,5 +1,5 @@
 {
-  "name": "khanamiryan/qrcode-detector-decoder",
+  "name": "cm2tech/php-qrcode-detector-decoder",
   "type": "library",
   "description": "QR code decoder / reader",
   "keywords": [
